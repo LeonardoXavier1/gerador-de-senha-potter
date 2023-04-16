@@ -175,3 +175,20 @@
   .hide {
     display: none;
   }
+
+  footer{
+
+    padding-left: 400px;
+    max-width: 1200px;
+    margin: 64px auto;
+  }
+
+  footer p {
+    color: #ddd;
+    animation: forwards;
+  }
+
+  footer a{
+    text-decoration: none;
+    color: #394672;
+  }
